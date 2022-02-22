@@ -81,7 +81,7 @@ class Main_Thread_Class():
                 #self.af_event()
                 #main.Main.Virtual_TreeView_Changed(main, self.select)
                 #main.Main.CRINGE(main, self.select)
-            print("Поток")
+            #print("Поток")
             sleep(5)
     def af_event(event):
 
